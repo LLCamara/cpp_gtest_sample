@@ -3,7 +3,7 @@
 //
 
 #include <iostream>
-#include "sample.h"
+#include "src/sample.h"
 
 int main() {
     Sample s;
